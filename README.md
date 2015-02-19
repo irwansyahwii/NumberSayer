@@ -17,6 +17,6 @@ To spit out English, you can pass :en
 sayer = NumberSayer.new
 result = sayer.say 11101060020, :en
 
-#result will be eleven billion one hundred one million sixty sixty thousand twenty
+#result will be eleven billion one hundred one million sixty thousand twenty
 ```
 
