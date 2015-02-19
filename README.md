@@ -6,7 +6,7 @@ Convert from number to Indonesian's (or any other language) text
 It will default to spit out Indonesian if no language id specified.
 
 ``` ruby
-sayer = NumberToSayer.new
+sayer = NumberSayer.new
 result = sayer.say 11101060020
 
 #result will be sebelas milyar seratus satu juta enam puluh ribu dua puluh
@@ -14,7 +14,7 @@ result = sayer.say 11101060020
 To spit out English, you can pass :en
 
 ``` ruby
-sayer = NumberToSayer.new
+sayer = NumberSayer.new
 result = sayer.say 11101060020, :en
 
 #result will be eleven billion one hundred one million sixty sixty thousand twenty
