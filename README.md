@@ -1,5 +1,5 @@
 # NumberSayer
-Convert from number to Indonesian's (or any other language) text
+Convert from number to Indonesian and English (or any other language) text
 
 ## How To Use ##
 
