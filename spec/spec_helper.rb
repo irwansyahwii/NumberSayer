@@ -1,3 +1,3 @@
-require_relative '../number_sayer'
+require_relative '../lib/number_sayer'
 
 require 'yaml'

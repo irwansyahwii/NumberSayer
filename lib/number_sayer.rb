@@ -1,6 +1,6 @@
-require './supporting_classes/parse_belasan_indonesia'
-require './supporting_classes/parse_belasan_english'
-require './supporting_classes/digits_parser'
+require_relative './supporting_classes/parse_belasan_indonesia'
+require_relative './supporting_classes/parse_belasan_english'
+require_relative './supporting_classes/digits_parser'
 
 class NumberSayer
 
